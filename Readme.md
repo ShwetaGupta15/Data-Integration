@@ -52,8 +52,16 @@ Visualization done based on the following requirements -
 8. Geography based Contribution to Sales
 9. Two people related attributes correlated to their sales
 10. Any reseller attributes (at least one) correlated to their sales
+- Some of the visualization snips are -
+- ![image](https://user-images.githubusercontent.com/71230572/114286609-3a6aca80-9a15-11eb-8609-245452d89f67.png)
+
+
 
 ### Results
+- Source to Target mappings, to identify the tables and columns used to load dimensions and facts in tha target databases [SourceToTargetMapping_SQLServer.xlsx](https://github.com/ShwetaGupta15/Data-Integration/files/6290834/SourceToTargetMapping_SQLServer.xlsx)
+
 - Used Alteryx to load the SQL Server.
+
 - Used Talend to load the MySQL.
+
 
