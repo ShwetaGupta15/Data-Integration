@@ -53,7 +53,7 @@ Visualization done based on the following requirements -
 9. Two people related attributes correlated to their sales
 10. Any reseller attributes (at least one) correlated to their sales
 - Some of the visualization snips are -
-- ![image](https://user-images.githubusercontent.com/71230572/114286609-3a6aca80-9a15-11eb-8609-245452d89f67.png)
+- ![image](https://user-images.githubusercontent.com/71230572/114287104-20cb8200-9a19-11eb-9110-69a1c2b9151e.png)
 
 
 
