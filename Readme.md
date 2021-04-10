@@ -32,8 +32,9 @@ Source Files -
 4. SalesOrderDetail_Revised.csv [SalesOrderDetail_Revised.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6290575/SalesOrderDetail_Revised.csv)
 
 #### Target Database used - AdventureWorksDW (SQL Server)
-Target SQL Script - 
-The Facts of target database are developed from the existing tables (OrderDetail and OrderHeader) in the dataset which have no rejects as the data is crisp and clear whereas the other two facts used the given csv files to find out the rejects and to understand the concept of rejects (or impure data). Using the rejects from the fact table I developed the table as 'DIM_Rejcts' which has the reject code and its related reason/description.
+Target SQL Script  [AdventureWorksDW_SQLServer.zip](https://github.com/ShwetaGupta15/Data-Integration/files/6290592/AdventureWorksDW_SQLServer.zip)
+- The Facts of target database are developed from the existing tables (OrderDetail and OrderHeader) in the dataset which have no rejects as the data is crisp and clear whereas    the other two facts used the given csv files to find out the rejects and to understand the concept of rejects (or impure data). Using the rejects from the fact table I developed the table as 'DIM_Rejcts' which has the reject code and its related reason/description.
+
 
 ### Visualization
 Visualization done based on the following requirements - 
