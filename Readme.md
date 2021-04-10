@@ -17,8 +17,8 @@ Business transactions tracked via - sales, purchases & inventory. These transact
 The facts include, which  -
 -> fct_internetsales
 -> fct_storesales
--> fct_internetsales_REJECTS
--> fct_storesales_REJECTS
+-> fct_internetsales_REJECTS  
+-> fct_storesales_REJECTS 
 
 ![image](https://user-images.githubusercontent.com/71230572/114281319-81939400-99f2-11eb-8dd7-726f7c4c205a.png)
 ![image](https://user-images.githubusercontent.com/71230572/114281340-b6075000-99f2-11eb-8c17-0a91652646ee.png)
@@ -26,14 +26,13 @@ The facts include, which  -
 ### Database -
 #### Sources Database used - AdventureWorks2019
 Source Files - 
-• SourceCustomerDemographics.csv
-• StoreWithDemographics.csv
-• SalesOrderHeader_Revised.csv 
-• SalesOrderDetail_Revised.csv
+• SourceCustomerDemographics.csv [CustomerDemographics.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6290579/CustomerDemographics.csv)
+• StoreWithDemographics.csv [SalesOrderDetail_Revised.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6290581/SalesOrderDetail_Revised.csv)
+• SalesOrderHeader_Revised.csv [SalesOrderHeader_Revised.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6290577/SalesOrderHeader_Revised.csv)
+• SalesOrderDetail_Revised.csv [SalesOrderDetail_Revised.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6290575/SalesOrderDetail_Revised.csv)
 
 #### Target Database used - AdventureWorksDW (SQL Server)
-Target SQL Script - AdventureWorksDW_SQLServer.sql
-
+Target SQL Script - 
 The Facts of target database are developed from the existing tables (OrderDetail and OrderHeader) in the dataset which have no rejects as the data is crisp and clear whereas the other two facts used the given csv files to find out the rejects and to understand the concept of rejects (or impure data). Using the rejects from the fact table I developed the table as 'DIM_Rejcts' which has the reject code and its related reason/description.
 
 ### Visualization
@@ -50,3 +49,6 @@ Visualization done based on the following requirements -
 10. Any reseller attributes (at least one) correlated to their sales
 
 ### Results
+- Used Alteryx to load the target database (dimensions and fact).
+- Some of the examples of alteryx jobs load -
+
