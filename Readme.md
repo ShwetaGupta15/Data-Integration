@@ -20,10 +20,10 @@ The facts include, which are as below  -
 - fct_internetsales_REJECTS  
 - fct_storesales_REJECTS 
 
--                                               Fact Store Sales:
+                                            ####Fact Store Sales:
 ![image](https://user-images.githubusercontent.com/71230572/114281319-81939400-99f2-11eb-8dd7-726f7c4c205a.png)
 
--                                               Fact Internet Sales:
+                                            ####Fact Internet Sales:
 ![image](https://user-images.githubusercontent.com/71230572/114281340-b6075000-99f2-11eb-8c17-0a91652646ee.png)
 
 ### Database -
