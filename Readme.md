@@ -14,7 +14,7 @@ Business transactions tracked via - sales, purchases & inventory. These transact
 - Vendors product and part suppliers
 - Sales promotions
 
-The facts include, which  -
+The facts include, which are as below  -
 - fct_internetsales
 - fct_storesales
 - fct_internetsales_REJECTS  
