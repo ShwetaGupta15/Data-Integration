@@ -63,6 +63,13 @@ Visualization done based on the following requirements -
 - ![image](https://user-images.githubusercontent.com/71230572/114288310-65f4b180-9a23-11eb-8618-92876a000ccd.png)
 - ![image](https://user-images.githubusercontent.com/71230572/114289133-562c9b80-9a2a-11eb-9115-924f541ca8f9.png)
 - [Facts_Revised.pdf](https://github.com/ShwetaGupta15/Data-Integration/files/6291164/Facts_Revised.pdf)
+- Using Fact base load I am separating the internet and reseller custumers based on the ONLINE_FLAG.
+1. If ONLINE_FLAG = 1 then the customers belong to internet sales
+2. If ONLINE_FLAG = 0 then the customers belong to reseller sales
+- The inner join of tables loads the FACT tables whereas the left join of each table load the REJECT.
+- If the table passes 0 or null in the left join means each row of the table joined where if the left join have some records means there are some records which does not satisfies the joining condition and these are the REJECTS.
+- That ID will be given some value say "-99" which is the reject code and the reason would "ID doesen't exist"
+
 
 
 
