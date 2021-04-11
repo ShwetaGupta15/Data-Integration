@@ -60,7 +60,7 @@ Visualization done based on the following requirements -
 - Source to Target mappings, to identify the tables and columns used to load dimensions and facts in tha target databases [SourceToTargetMapping_SQLServer.xlsx](https://github.com/ShwetaGupta15/Data-Integration/files/6290834/SourceToTargetMapping_SQLServer.xlsx)
 
 - Used Alteryx to load the SQL Server.
-- ![image](https://user-images.githubusercontent.com/71230572/114288310-65f4b180-9a23-11eb-8618-92876a000ccd.png)
+- ![image](https://user-images.githubusercontent.com/71230572/114292218-c0046f80-9a41-11eb-9b5c-f8ddc2f8edba.png)
 - ![image](https://user-images.githubusercontent.com/71230572/114289133-562c9b80-9a2a-11eb-9115-924f541ca8f9.png)
 - [Facts_Revised.pdf](https://github.com/ShwetaGupta15/Data-Integration/files/6291164/Facts_Revised.pdf)
 - Using Fact base load I am separating the internet and reseller custumers based on the ONLINE_FLAG.
