@@ -54,7 +54,7 @@ Visualization done based on the following requirements -
 10. Any reseller attributes (at least one) correlated to their sales
 - Some of the visualization snips are -
 - ![image](https://user-images.githubusercontent.com/71230572/114287104-20cb8200-9a19-11eb-9110-69a1c2b9151e.png)
-- ![image](https://user-images.githubusercontent.com/71230572/114288843-7eff6180-9a27-11eb-8261-edac2ce30e4c.png)
+- ![image](https://user-images.githubusercontent.com/71230572/114292581-4b7f0000-9a44-11eb-8dbf-faca2aa0f618.png)
 
 ### Results
 - Source to Target mappings, to identify the tables and columns used to load dimensions and facts in tha target databases [SourceToTargetMapping_SQLServer.xlsx](https://github.com/ShwetaGupta15/Data-Integration/files/6290834/SourceToTargetMapping_SQLServer.xlsx)
