@@ -54,12 +54,16 @@ Visualization done based on the following requirements -
 10. Any reseller attributes (at least one) correlated to their sales
 - Some of the visualization snips are -
 - ![image](https://user-images.githubusercontent.com/71230572/114287104-20cb8200-9a19-11eb-9110-69a1c2b9151e.png)
-
-
+- ![image](https://user-images.githubusercontent.com/71230572/114288843-7eff6180-9a27-11eb-8261-edac2ce30e4c.png)
 
 ### Results
 - Source to Target mappings, to identify the tables and columns used to load dimensions and facts in tha target databases [SourceToTargetMapping_SQLServer.xlsx](https://github.com/ShwetaGupta15/Data-Integration/files/6290834/SourceToTargetMapping_SQLServer.xlsx)
 
 - Used Alteryx to load the SQL Server.
+- ![image](https://user-images.githubusercontent.com/71230572/114288310-65f4b180-9a23-11eb-8618-92876a000ccd.png)
+- ![image](https://user-images.githubusercontent.com/71230572/114289133-562c9b80-9a2a-11eb-9115-924f541ca8f9.png)
+- [Facts_Revised.pdf](https://github.com/ShwetaGupta15/Data-Integration/files/6291164/Facts_Revised.pdf)
+
+
 
 - Used Talend to load the MySQL.
