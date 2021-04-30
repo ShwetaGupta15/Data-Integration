@@ -80,6 +80,8 @@ Visualization done based on the following requirements -
 -  Here, revised version of OrderHeader and OrderDetails CSV has been created which has reject values. Dimensions are inner joined to load the SK in Facts. I have added tChronometer to record the execution time of the job and the 'tAssert' tool to check if the expected number of columns loaded into the target database and logs error if not.
 -  For rejects, catch lookup inner join reject is set to 'TRUE'. 
 -  ![image](https://user-images.githubusercontent.com/71230572/115138536-b058ce00-9fe1-11eb-9ca9-b6e4ac150002.png)
+-  ![image](https://user-images.githubusercontent.com/71230572/116651654-833ce180-a938-11eb-8eda-17d090de7361.png)
+
 -  Using truncate load for all the facts and dimensions for both Alteryx and Talend
 
 
