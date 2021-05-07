@@ -47,6 +47,9 @@ This problem is the extended version of AdevntureWorks_Store_Sales where data in
 - [VendorContacts_202103261435.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6439499/VendorContacts_202103261435.csv)
 
 ### Target Database -
+#### Srcipts for SQL Server & MySQL-
+
+
 
 
 
