@@ -27,8 +27,9 @@ This problem is the extended version of AdevntureWorks_Store_Sales where data in
 ![image](https://user-images.githubusercontent.com/71230572/117405590-bba46880-aec0-11eb-8119-89571555843f.png)
 
 - Schema to load dimensions and facts -
-![image](https://user-images.githubusercontent.com/71230572/117406208-9ebc6500-aec1-11eb-9a16-5ad1bf8191b9.png)
-![image](https://user-images.githubusercontent.com/71230572/117406272-b398f880-aec1-11eb-859a-a67ac8b1c9e2.png)
-![image](https://user-images.githubusercontent.com/71230572/117406292-ba277000-aec1-11eb-8932-b78b3c2d1dd7.png)
+![image](https://user-images.githubusercontent.com/71230572/117406621-2904c900-aec2-11eb-8537-90dd2706ce45.png)
+![image](https://user-images.githubusercontent.com/71230572/117406675-3b7f0280-aec2-11eb-849f-08d0008b3a19.png)
+![image](https://user-images.githubusercontent.com/71230572/117406714-4a65b500-aec2-11eb-9dae-ef6ab26fc6fb.png)
+
 
 
