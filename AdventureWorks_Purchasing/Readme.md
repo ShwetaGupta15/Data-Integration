@@ -36,5 +36,7 @@ This problem is the extended version of AdevntureWorks_Store_Sales where data in
 3. Manufacturing -
 
 
+![image](https://user-images.githubusercontent.com/71230572/117407215-16d75a80-aec3-11eb-8afe-dc91a4c8adfd.png)
+
 
 
