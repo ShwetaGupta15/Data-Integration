@@ -10,5 +10,16 @@ This problem is the extended version of AdevntureWorks_Store_Sales where data in
 2. Types of products purchased.
 3. Product purchased (Purchase cost & quantity) by Vendor.
 4. The Employess who were involved in purchasing and what did they purchased.
-5. Vendors who were involved in purchasing and what did they purchased.
+5. Vendor's contact who were involved in purchasing and what did they purchased.
+
+### Target Database contains below purchasing related schema-
+- All product purchase made by Adventureworks will be from Vendors, i.e. purchase orders
+- List of products that might be purchased from Vendors, in other words, all the products that are not made by AdventureWorks
+- Vendors that AdventureWorks might purchase products from
+- Products that AdventureWorks might purchase from vendors and associated with the vendors that sell them.
+- Vendors’ employees (contacts) who interact with AdventureWorks.
+- Employees who have bought products from vendors and include attributes about those people such as address, email, phone, department they currently work in.
+- Ship Methods
+- Geography dimensions (Outrigger) that includes cities, state, countries.
+- Data dimension.
 
