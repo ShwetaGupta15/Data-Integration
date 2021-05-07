@@ -12,7 +12,7 @@ This problem is the extended version of AdevntureWorks_Store_Sales where data in
   4. The Employess who were involved in purchasing and what did they purchased.
   5. Vendor's contact who were involved in purchasing and what did they purchased.
 
-### Target Database contains below purchasing related schema-
+## Target Database Schema-
 - All product purchase made by Adventureworks will be from Vendors, i.e. purchase orders
 - List of products that might be purchased from Vendors, in other words, all the products that are not made by AdventureWorks
 - Vendors that AdventureWorks might purchase products from
