@@ -27,27 +27,16 @@ This problem is the extended version of AdevntureWorks_Store_Sales where data in
 
 ### Source Database Files:
 [DimEmployeePayHistory_Input.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6439488/DimEmployeePayHistory_Input.csv)
-
 [DimProductCost_Input.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6439489/DimProductCost_Input.csv)
-
 [EmployeeData_202103261432.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6439491/EmployeeData_202103261432.csv)
-
 [IndividualCustomer_202103261439.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6439492/IndividualCustomer_202103261439.csv)
-
 [PersonDemographics_202103261437.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6439493/PersonDemographics_202103261437.csv)
-
 [SalesPerson_202103261440.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6439494/SalesPerson_202103261440.csv)
-
 [StoreAddresses_202103261441.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6439495/StoreAddresses_202103261441.csv)
-
 [StoreContacts_202103261441.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6439496/StoreContacts_202103261441.csv)
-
 [StoreDemographics_202103261442.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6439497/StoreDemographics_202103261442.csv)
-
 [VendorAddresses_202103261434.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6439498/VendorAddresses_202103261434.csv)
-
 [VendorContacts_202103261435.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6439499/VendorContacts_202103261435.csv)
-
 
 ### Target Database Schema-
 - All product purchase made by Adventureworks will be from Vendors, i.e. purchase orders
