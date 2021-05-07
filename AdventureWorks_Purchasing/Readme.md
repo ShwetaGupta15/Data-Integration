@@ -27,13 +27,13 @@ This problem is the extended version of AdevntureWorks_Store_Sales where data in
 ![image](https://user-images.githubusercontent.com/71230572/117405590-bba46880-aec0-11eb-8119-89571555843f.png)
 
 - Schema to load dimensions and facts -
-For Purchasing  (Vendors from whom products are purchased)-
+1. For Purchasing  (Vendors from whom products are purchased)-
 ![image](https://user-images.githubusercontent.com/71230572/117406621-2904c900-aec2-11eb-8537-90dd2706ce45.png)
 
-Human Resources (Employess of AdventureWorks)- 
+2. Human Resources (Employess of AdventureWorks)- 
 ![image](https://user-images.githubusercontent.com/71230572/117406675-3b7f0280-aec2-11eb-849f-08d0008b3a19.png)
 
-Manufacturing -
+3. Manufacturing -
 ![image](https://user-images.githubusercontent.com/71230572/117406714-4a65b500-aec2-11eb-9dae-ef6ab26fc6fb.png)
 
 
