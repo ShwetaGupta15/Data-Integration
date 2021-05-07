@@ -5,14 +5,19 @@ This problem is the extended version of AdevntureWorks_Store_Sales where data in
 3. Product
 
 - When the bikes, bike components sold on AdventureWorks via internet or store, AdventureWorks purchases products from Vendors that they either resell or use as component in their own finished goods that they build and sell.
-- The deliverables are designed to represent the Purchasing Data Warehouse, populate the tables using Talend & Alteryx into the databases MySQL & SQL Server and then to create visualizations using Tableau, PowerBI providing the belowing information-
-  1. Purchases (Purchase cost & quantity) by product.
-  2. Types of products purchased.
-  3. Product purchased (Purchase cost & quantity) by Vendor.
-  4. The Employess who were involved in purchasing and what did they purchased.
-  5. Vendor's contact who were involved in purchasing and what did they purchased.
+- The deliverables are designed to represent the Purchasing Data Warehouse, populate the tables using Talend & Alteryx into the databases MySQL & SQL Server and then to create visualizations using Tableau, PowerBI.
 
-### Schemas used to load Target:
+- All product purchase made by Adventureworks will be from Vendors, i.e. purchase orders
+- List of products that might be purchased from Vendors, in other words, all the products that are not made by AdventureWorks
+- Vendors that AdventureWorks might purchase products from
+- Products that AdventureWorks might purchase from vendors and associated with the vendors that sell them.
+- Vendors’ employees (contacts) who interact with AdventureWorks.
+- Employees who have bought products from vendors and include attributes about those people such as address, email, phone, department they currently work in.
+- Ship Methods
+- Geography dimensions (Outrigger) that includes cities, state, countries.
+- Data dimension.
+
+### Schemas used to load Tables:
 
 1. For Purchasing  (Vendors from whom products are purchased)-
 ![image](https://user-images.githubusercontent.com/71230572/117406621-2904c900-aec2-11eb-8537-90dd2706ce45.png)
@@ -24,6 +29,9 @@ This problem is the extended version of AdevntureWorks_Store_Sales where data in
 
 
 ![image](https://user-images.githubusercontent.com/71230572/117407215-16d75a80-aec3-11eb-8afe-dc91a4c8adfd.png)
+
+#### List of Dimensions & Facts:
+![image](https://user-images.githubusercontent.com/71230572/117405590-bba46880-aec0-11eb-8119-89571555843f.png)
 
 ### Source Database Files:
 - [DimEmployeePayHistory_Input.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6439488/DimEmployeePayHistory_Input.csv)
@@ -38,19 +46,10 @@ This problem is the extended version of AdevntureWorks_Store_Sales where data in
 - [VendorAddresses_202103261434.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6439498/VendorAddresses_202103261434.csv)
 - [VendorContacts_202103261435.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6439499/VendorContacts_202103261435.csv)
 
-### Target Database Schema-
-- All product purchase made by Adventureworks will be from Vendors, i.e. purchase orders
-- List of products that might be purchased from Vendors, in other words, all the products that are not made by AdventureWorks
-- Vendors that AdventureWorks might purchase products from
-- Products that AdventureWorks might purchase from vendors and associated with the vendors that sell them.
-- Vendors’ employees (contacts) who interact with AdventureWorks.
-- Employees who have bought products from vendors and include attributes about those people such as address, email, phone, department they currently work in.
-- Ship Methods
-- Geography dimensions (Outrigger) that includes cities, state, countries.
-- Data dimension.
+### Target Database -
 
-#### List of Dimensions & Facts:
-![image](https://user-images.githubusercontent.com/71230572/117405590-bba46880-aec0-11eb-8119-89571555843f.png)
+
+
 
 
 
