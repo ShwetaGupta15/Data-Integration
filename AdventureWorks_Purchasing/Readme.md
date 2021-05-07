@@ -23,3 +23,6 @@ This problem is the extended version of AdevntureWorks_Store_Sales where data in
 - Geography dimensions (Outrigger) that includes cities, state, countries.
 - Data dimension.
 
+### List of Dimensions & Facts:
+![image](https://user-images.githubusercontent.com/71230572/117405590-bba46880-aec0-11eb-8119-89571555843f.png)
+
