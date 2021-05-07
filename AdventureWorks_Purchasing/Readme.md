@@ -32,7 +32,6 @@ This problem is the extended version of AdevntureWorks_Store_Sales where data in
 
 2. Human Resources (Employess of AdventureWorks)- 
 ![image](https://user-images.githubusercontent.com/71230572/117406675-3b7f0280-aec2-11eb-849f-08d0008b3a19.png)
-
 3. Manufacturing -
 ![image](https://user-images.githubusercontent.com/71230572/117406714-4a65b500-aec2-11eb-9dae-ef6ab26fc6fb.png)
 
