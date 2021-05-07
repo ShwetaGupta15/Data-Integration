@@ -49,6 +49,8 @@ This problem is the extended version of AdevntureWorks_Store_Sales where data in
 ### Target Database -
 #### Srcipts for SQL Server & MySQL - [adventureWorksDW_SQL_Scripts.zip](https://github.com/ShwetaGupta15/Data-Integration/files/6439574/adventureWorksDW_SQL_Scripts.zip)
 
+The tables in the dimesnions and facts are loaded using the the csv files. There are some dimensions which has the direct load whereas some have the dependencies on others, which fulfilled using joining conditions at the ETL end.
+
 
 
 
