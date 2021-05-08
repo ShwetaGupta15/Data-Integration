@@ -60,6 +60,9 @@ Some of the jobs snapshots for Alteryx as follows -
 Dim_Employee - [DimEmployee.pdf](https://github.com/ShwetaGupta15/Data-Integration/files/6445004/DimEmployee.pdf)
 
 ![image](https://user-images.githubusercontent.com/71230572/117522737-e4346d00-af69-11eb-9536-2bab7290e445.png)
+- DimPayHishory (SCD Type 2)
+![image](https://user-images.githubusercontent.com/71230572/117551235-a717bb80-aff9-11eb-814b-d03fd73f78c0.png)
+
 
 
 
