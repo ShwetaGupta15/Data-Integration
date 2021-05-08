@@ -66,6 +66,12 @@ Dim_Employee - [DimEmployee.pdf](https://github.com/ShwetaGupta15/Data-Integrati
  
 ![image](https://user-images.githubusercontent.com/71230572/117551235-a717bb80-aff9-11eb-814b-d03fd73f78c0.png)
 
+- Fct_Purchase - The fact has been loaded using multiple dimension's SK using the inner join and the for each inner join which SK is not null, are loaded to FCT_Purchase_REJECT using the left join.
+- [Fact_Purchase.pdf](https://github.com/ShwetaGupta15/Data-Integration/files/6446484/Fact_Purchase.pdf)
+
+![image](https://user-images.githubusercontent.com/71230572/117552048-17284080-affe-11eb-8ab2-7f644920404e.png)
+
+
 
 
 
