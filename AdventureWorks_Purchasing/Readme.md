@@ -60,7 +60,8 @@ Some of the jobs snapshots for Alteryx as follows -
 Dim_Employee - [DimEmployee.pdf](https://github.com/ShwetaGupta15/Data-Integration/files/6445004/DimEmployee.pdf)
 
 ![image](https://user-images.githubusercontent.com/71230572/117522737-e4346d00-af69-11eb-9536-2bab7290e445.png)
-- DimPayHishory (SCD Type 2)
+
+- DimPayHishory (SCD Type 2) where I have used Multi-Row Formula component in Alteryx to create scd_end date column using where it checks for the value for each Row+1 and Formula component to create Active_Flag and to check if the scd_end is null then set the value for flag as "1" which shows this as the lastest record and the Running Total component which increments the value of version by 1 till it gets the scd_end as null. Hence, the SCD - 2 has been applied on the the column SCD_END.
 ![image](https://user-images.githubusercontent.com/71230572/117551235-a717bb80-aff9-11eb-814b-d03fd73f78c0.png)
 
 
