@@ -55,7 +55,7 @@ The tables in the dimesnions and facts are loaded using the the csv files. There
 - dim_productcosthistory
 - dim_productpricehistory
 in both Talend & Alteryx on modified_date.
-Some of the jobs snapshots for Alteryx as follows -
+Some of the jobs snapshots for Alteryx and Talend as follows -
 
 Dim_Employee - [DimEmployee.pdf](https://github.com/ShwetaGupta15/Data-Integration/files/6445004/DimEmployee.pdf)
 
@@ -70,6 +70,16 @@ Dim_Employee - [DimEmployee.pdf](https://github.com/ShwetaGupta15/Data-Integrati
 - [Fact_Purchase.pdf](https://github.com/ShwetaGupta15/Data-Integration/files/6446484/Fact_Purchase.pdf)
 
 ![image](https://user-images.githubusercontent.com/71230572/117552048-17284080-affe-11eb-8ab2-7f644920404e.png)
+
+- Fct_WorkOrder and Fct_WorkOrder_Rejects in Talend. The Fact has been populated using the inner join where as for rejects '_Catch lookup inner join reject_' is set to **TRUE** and the similar procedure has been applied to other facts in talend.
+- ![image](https://user-images.githubusercontent.com/71230572/119246452-8c376200-bb36-11eb-8eec-6d328148b2e8.png)
+- ![image](https://user-images.githubusercontent.com/71230572/119246406-35318d00-bb36-11eb-941d-d0b7faf17880.png)
+- SCD in Talend (Dim_ProductCostHistory) usind the SCD Component-
+- ![image](https://user-images.githubusercontent.com/71230572/119246766-12ed3e80-bb39-11eb-8efe-069a93ae26cd.png)
+- ![image](https://user-images.githubusercontent.com/71230572/119246783-357f5780-bb39-11eb-9ff8-d4a2e534c3c2.png)
+
+
+
 
 
 
