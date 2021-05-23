@@ -65,6 +65,8 @@ Dim_Employee - [DimEmployee.pdf](https://github.com/ShwetaGupta15/Data-Integrati
 - For other SCDs (dim_productcosthistory, dim_productpricehistory) the same has been applied.
  
 ![image](https://user-images.githubusercontent.com/71230572/117551235-a717bb80-aff9-11eb-814b-d03fd73f78c0.png)
+![image](https://user-images.githubusercontent.com/71230572/119249922-75523900-bb51-11eb-8ba6-f7a326c20234.png)
+
 
 - Fct_Purchase - The fact has been loaded using multiple dimension's SK using the inner join and the for each inner join which SK is not null, are loaded to FCT_Purchase_REJECT using the left join.
 - [Fact_Purchase.pdf](https://github.com/ShwetaGupta15/Data-Integration/files/6446484/Fact_Purchase.pdf)
@@ -74,7 +76,7 @@ Dim_Employee - [DimEmployee.pdf](https://github.com/ShwetaGupta15/Data-Integrati
 - Fct_WorkOrder and Fct_WorkOrder_Rejects in Talend. The Fact has been populated using the inner join where as for rejects '_Catch lookup inner join reject_' is set to **TRUE** and the similar procedure has been applied to other facts in talend.
 - ![image](https://user-images.githubusercontent.com/71230572/119246452-8c376200-bb36-11eb-8eec-6d328148b2e8.png)
 - ![image](https://user-images.githubusercontent.com/71230572/119246406-35318d00-bb36-11eb-941d-d0b7faf17880.png)
-- SCD Type 2 in Talend (Dim_ProductCostHistory) usind the SCD Component-
+- SCD Type 2 in Talend (Dim_ProductCostHistory) usind the SCD Component- The SCD has been applied on the Product_SK as shown below in the SCD editor and the results captured in SQL Server. 
 - ![image](https://user-images.githubusercontent.com/71230572/119249878-1a204680-bb51-11eb-85da-75f7aee06eca.png)
 - ![image](https://user-images.githubusercontent.com/71230572/119249885-2a382600-bb51-11eb-8642-2ad0f844b59d.png)
 - ![image](https://user-images.githubusercontent.com/71230572/119249896-3fad5000-bb51-11eb-994e-5e451914097c.png)
