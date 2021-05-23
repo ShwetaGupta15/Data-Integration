@@ -75,8 +75,10 @@ Dim_Employee - [DimEmployee.pdf](https://github.com/ShwetaGupta15/Data-Integrati
 - ![image](https://user-images.githubusercontent.com/71230572/119246452-8c376200-bb36-11eb-8eec-6d328148b2e8.png)
 - ![image](https://user-images.githubusercontent.com/71230572/119246406-35318d00-bb36-11eb-941d-d0b7faf17880.png)
 - SCD Type 2 in Talend (Dim_ProductCostHistory) usind the SCD Component-
-- ![image](https://user-images.githubusercontent.com/71230572/119246766-12ed3e80-bb39-11eb-8efe-069a93ae26cd.png)
-- ![image](https://user-images.githubusercontent.com/71230572/119246783-357f5780-bb39-11eb-9ff8-d4a2e534c3c2.png)
+- ![image](https://user-images.githubusercontent.com/71230572/119249878-1a204680-bb51-11eb-85da-75f7aee06eca.png)
+- ![image](https://user-images.githubusercontent.com/71230572/119249885-2a382600-bb51-11eb-8642-2ad0f844b59d.png)
+- ![image](https://user-images.githubusercontent.com/71230572/119249896-3fad5000-bb51-11eb-994e-5e451914097c.png)
+
 
 
 
