@@ -65,8 +65,7 @@ Dim_Employee - [DimEmployee.pdf](https://github.com/ShwetaGupta15/Data-Integrati
 - For other SCDs (dim_productcosthistory, dim_productpricehistory) the same has been applied.
  
 ![image](https://user-images.githubusercontent.com/71230572/117551235-a717bb80-aff9-11eb-814b-d03fd73f78c0.png)
-![image](https://user-images.githubusercontent.com/71230572/119249922-75523900-bb51-11eb-8ba6-f7a326c20234.png)
-
+![image](https://user-images.githubusercontent.com/71230572/119251075-4c35a680-bb59-11eb-8ed3-8113a8be3d0a.png)
 
 - Fct_Purchase - The fact has been loaded using multiple dimension's SK using the inner join and the for each inner join which SK is not null, are loaded to FCT_Purchase_REJECT using the left join.
 - [Fact_Purchase.pdf](https://github.com/ShwetaGupta15/Data-Integration/files/6446484/Fact_Purchase.pdf)
