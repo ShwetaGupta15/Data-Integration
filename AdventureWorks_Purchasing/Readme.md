@@ -34,8 +34,6 @@ This problem is the extended version of AdevntureWorks_Store_Sales where data in
 ![image](https://user-images.githubusercontent.com/71230572/117405590-bba46880-aec0-11eb-8119-89571555843f.png)
 
 ### Source Database Files:
-- [DimEmployeePayHistory_Input.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6444937/DimEmployeePayHistory_Input.csv)
-- [DimProductCost_Input.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6444939/DimProductCost_Input.csv)
 - [EmployeeData.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6444940/EmployeeData.csv)
 - [IndividualCustomer.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6444941/IndividualCustomer.csv)
 - [PersonDemographics.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6444942/PersonDemographics.csv)
@@ -45,6 +43,12 @@ This problem is the extended version of AdevntureWorks_Store_Sales where data in
 - [StoreDemographics.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6444946/StoreDemographics.csv)
 - [VendorAddresses.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6444947/VendorAddresses.csv)
 - [VendorContacts.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6444948/VendorContacts.csv)
+- [EmployeePayHistoryAltered_202103291656.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6527656/EmployeePayHistoryAltered_202103291656.csv)
+- [EmployeePayRateChanges_202103281658.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6527657/EmployeePayRateChanges_202103281658.csv)
+- [ProductCostAltered_202103291657.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6527658/ProductCostAltered_202103291657.csv)
+- [PurchaseOrderDetailAltered_202103291632.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6527659/PurchaseOrderDetailAltered_202103291632.csv)
+- [PurchaseOrderHeaderAltered_202103291633.csv](https://github.com/ShwetaGupta15/Data-Integration/files/6527660/PurchaseOrderHeaderAltered_202103291633.csv)
+
 
 
 ### Target Database -
