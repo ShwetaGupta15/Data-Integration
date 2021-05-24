@@ -87,10 +87,14 @@ Dim_Employee - [DimEmployee.pdf](https://github.com/ShwetaGupta15/Data-Integrati
 ##Visualization :
 1. Employee who all are involved in the purchase and what & how much did they purchase -
 -  ![image](https://user-images.githubusercontent.com/71230572/119284940-c451aa00-bbf5-11eb-8159-3efa898cc051.png)
--  
+  
 -  The Action -> filter has been applied to this dashboard where on selecting any employee his/her puchase details filters with all its specific product categories and other product details by total purchasing amount, for example:
 -  One select employee 'Linda Meisner', have the product categories accessories, components, null. So on further selecting the the accesories category the related product details can be seen in the cross-tab, as below.
--  ![image](https://user-images.githubusercontent.com/71230572/119285435-e0a21680-bbf6-11eb-8c02-f71653a778b4.png)
+  ![image](https://user-images.githubusercontent.com/71230572/119285435-e0a21680-bbf6-11eb-8c02-f71653a778b4.png)
+
+2. Vendor Purchasing
+![image](https://user-images.githubusercontent.com/71230572/119286270-d8e37180-bbf8-11eb-8d79-060f2a014d14.png)
+
 
 
 
