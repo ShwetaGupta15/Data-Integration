@@ -94,6 +94,9 @@ Dim_Employee - [DimEmployee.pdf](https://github.com/ShwetaGupta15/Data-Integrati
 
 2. Vendor Purchasing
 ![image](https://user-images.githubusercontent.com/71230572/119286270-d8e37180-bbf8-11eb-8d79-060f2a014d14.png)
+![image](https://user-images.githubusercontent.com/71230572/119286419-25c74800-bbf9-11eb-9b7e-4a3b4e7182b3.png)
+![image](https://user-images.githubusercontent.com/71230572/119286526-6757f300-bbf9-11eb-965b-8a7ba085f644.png)
+
 
 
 
