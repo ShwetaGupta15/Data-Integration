@@ -92,10 +92,15 @@ Dim_Employee - [DimEmployee.pdf](https://github.com/ShwetaGupta15/Data-Integrati
 -  One select employee 'Linda Meisner', have the product categories accessories, components, null. So on further selecting the the accesories category the related product details can be seen in the cross-tab, as below.
   ![image](https://user-images.githubusercontent.com/71230572/119285435-e0a21680-bbf6-11eb-8c02-f71653a778b4.png)
 
-2. Vendor Purchasing
+2. Vendor Purchasing -> There are four filters for ProductCategory selecting any of which gives the filtered data about the Vendors. Plus, The total purchasing made by that particular category, as below-
 ![image](https://user-images.githubusercontent.com/71230572/119286270-d8e37180-bbf8-11eb-8d79-060f2a014d14.png)
 ![image](https://user-images.githubusercontent.com/71230572/119286419-25c74800-bbf9-11eb-9b7e-4a3b4e7182b3.png)
+3. The third dashboard about product details -
 ![image](https://user-images.githubusercontent.com/71230572/119286526-6757f300-bbf9-11eb-965b-8a7ba085f644.png)
+ The dashboard shows product related details for vendors and filter action has been applied on it, i.e, when any vendor selected on the Vendor Purchasing dashboard, on click actions takes us to the product dashboard showing the products and subcategories specific to the vendor. For example, on selecting Aurora Bike Center gives following products and their categories -
+![image](https://user-images.githubusercontent.com/71230572/119288518-88bade00-bbfd-11eb-91c6-e44c6610c497.png)
+![image](https://user-images.githubusercontent.com/71230572/119288527-8bb5ce80-bbfd-11eb-8e33-1bd97ac3a2f8.png)
+
 
 
 
