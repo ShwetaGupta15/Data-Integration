@@ -98,8 +98,8 @@ Dim_Employee - [DimEmployee.pdf](https://github.com/ShwetaGupta15/Data-Integrati
 3. The third dashboard about product details -
 ![image](https://user-images.githubusercontent.com/71230572/119286526-6757f300-bbf9-11eb-965b-8a7ba085f644.png)
  The dashboard shows product related details for vendors and filter action has been applied on it, i.e, when any vendor selected on the Vendor Purchasing dashboard, on click actions takes us to the product dashboard showing the products and subcategories specific to the vendor. For example, on selecting Aurora Bike Center gives following products and their categories -
-![image](https://user-images.githubusercontent.com/71230572/119288518-88bade00-bbfd-11eb-91c6-e44c6610c497.png)
-![image](https://user-images.githubusercontent.com/71230572/119288527-8bb5ce80-bbfd-11eb-8e33-1bd97ac3a2f8.png)
+![image](https://user-images.githubusercontent.com/71230572/119288649-d33c5a80-bbfd-11eb-9bb6-c808e4ba7e92.png)
+![image](https://user-images.githubusercontent.com/71230572/119288671-d9cad200-bbfd-11eb-9a4b-e26b4cc1fe3c.png)
 
 
 
