@@ -39,6 +39,15 @@
    > Title: https://www.imdb.com/title/ + tconst <br />
    > Person: https://www.imdb.com/name/ + nconst <br />
 
+# Data Integration
+## Following the below standards - 
+-  All rows need to have DI_JobID , DI_CreateDT , SOR_SK and be filled in <br />
+-  All jobs must use Job Statistics Processing Joblets <br />
+-  All connections between Talend components need to be labeled, i.e. no row1, row2, etc. <br />
+-  Orchestrator (or Master jobs) need to load all Staging, Integration and BI schemas <br />
+
+### Load staging tables
+
     
 
     
